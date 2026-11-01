@@ -1,0 +1,12 @@
+.private/
+exports/
+session.json
+devices.json
+*.mitm
+*.har
+*.pcap
+*.log
+__pycache__/
+*.pyc
+.DS_Store
+mitmproxy-ca*
